@@ -1,3 +1,7 @@
+> **Este repositório mudou para [anagovbr/painel-marcos-regulatorios](https://github.com/anagovbr/painel-marcos-regulatorios)**
+> em 08/10/2026, e o painel para <https://anagovbr.github.io/painel-marcos-regulatorios/>. Aqui ficou só o histórico até
+> a mudança; os robôs estão desligados e o endereço antigo do painel redireciona para o novo.
+
 # Painel dos açudes com alocação de água e marco regulatório
 
 Situação atual dos açudes do SAR (Sistema de Acompanhamento de Reservatórios, ANA) que têm boletim de acompanhamento
